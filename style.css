@@ -34,7 +34,7 @@ main {
 .player1 {
     width: 45%; /* Adjust the width of each section */
     padding: 10px;
-    background-color: darkgrey;
+    background-color: #d54b4b;
     box-sizing: border-box;
     position: absolute;
     top: 40px;
@@ -55,7 +55,7 @@ main {
 .player2 {
     width: 45%; /* Adjust the width of each section */
     padding: 10px;
-    background-color: aquamarine;
+    background-color: darkgrey;
     box-sizing: border-box;
     position: absolute;
     top: 40px;
