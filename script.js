@@ -119,6 +119,8 @@ document.querySelector('.btn-new').addEventListener('click', function() {
     displayScore2(score2);
     displayCurrent1(current1);
     displayCurrent2(current2);
+    player1.getElementsByClassName('player1name')[0].textContent = 'Player 1';
+    player2.getElementsByClassName('player2name')[0].textContent = 'Player 2';
     player1.style.backgroundColor = '#d54b4b';
     player2.style.backgroundColor = 'darkgrey';
 });
